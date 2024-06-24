@@ -7,3 +7,7 @@
 ### VIM
 
 - https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/
+
+### Startups
+
+- https://www.youtube.com/@ycombinator
